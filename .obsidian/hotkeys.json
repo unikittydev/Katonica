@@ -23,7 +23,15 @@
         "Mod",
         "Shift"
       ],
-      "key": "A"
+      "key": "U"
+    }
+  ],
+  "obsidian-git:open-diff-view": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }

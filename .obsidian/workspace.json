@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Двенадцать катонских цивилизаций.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bda6e2bcc8fbdb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Белые.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bda6e2bcc8fbdb2",
+  "active": "bbd373773fe4cf94",
   "lastOpenFiles": [
+    "Белые.md",
+    "Двенадцать катонских цивилизаций.md",
     "Народ небесных.md",
     "Шаблоны/Портрет цивилизации.md",
-    "Двенадцать катонских цивилизаций.md",
     "Вечнозелёный лес.md",
     "Untitled.md",
     "Список народов Катона.md",
     "Влажная тайга.md",
     "Untitled.canvas",
-    "Портрет цивилизации 1.md",
-    "Население.md"
+    "Портрет цивилизации 1.md"
   ]
 }
