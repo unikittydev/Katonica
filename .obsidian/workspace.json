@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Народ небесных.md",
+                "file": "Белые.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Народ небесных.md",
+                "file": "Белые.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Народ небесных.md",
+                "file": "Белые.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Народ небесных.md"
+                "file": "Белые.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "4bda6e2bcc8fbdb2",
   "lastOpenFiles": [
-    "Шаблоны/Портрет цивилизации.md",
     "Народ небесных.md",
+    "Шаблоны/Портрет цивилизации.md",
     "Двенадцать катонских цивилизаций.md",
     "Вечнозелёный лес.md",
     "Untitled.md",
